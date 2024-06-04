@@ -1,8 +1,8 @@
 package main
 
 import (
-	"KarimovbejanHW/hw_tasks/additions"
-	"KarimovbejanHW/hw_tasks/utils"
+	"SliceCommand/additions"
+	"SliceCommand/utils"
 	"fmt"
 	"strconv"
 )
